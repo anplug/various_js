@@ -1,0 +1,109 @@
+:root {
+  --c1: #7289da;
+  --c2: #ffffff;
+  --c3: #99aab5;
+  --c4: #2c2f33;
+  --c5: #23272a;
+
+  font-family: "Arial";
+  font-size: 20px;
+  color: var(--c2);
+}
+
+body {
+  background-color: var(--c2);
+}
+
+section {
+  padding: 5px 0 5px 5px;
+}
+
+p {
+  text-indent: 10px;
+  font-size: 18px;
+  margin: 0;
+}
+
+ul {
+  padding-left: 20px;
+  margin: 0;
+}
+
+h1 {
+  font-size: 46px;
+}
+
+h1, h2, h3, h4, h5 {
+  margin: 0;
+}
+
+header {
+  background-color: var(--c4);
+  color: var(--c3);
+
+  border-radius: 20px 20px 0 0;
+}
+
+footer {
+  background-color: var(--c5);
+  color: var(--c3);
+
+  border-radius: 0 0 20px 20px;
+  text-align: justify;
+}
+
+footer div {
+  padding: 10px;
+}
+
+a {
+  color: var(--c1);
+}
+
+.skills {
+  background-color: var(--c3);
+  color: var(--c5);
+}
+
+.code {
+  background-color: var(--c4);
+}
+
+.experience {
+  background-color: var(--c3);
+  color: var(--c5);
+}
+
+.education {
+  background-color: var(--c4);
+}
+
+.english {
+  background-color: var(--c3);
+  color: var(--c5);
+}
+
+.main-container {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+header img {
+  width: 33%;
+}
+
+.header-info {
+  width: 66%;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.top {
+  vertical-align: top;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
