@@ -17,6 +17,7 @@ I am strong personality with highly developed communication skills, now it's a t
 
 ### Code examples
 Some small amount of unfinished code examples [Github](https://github.com/anplug)
+HTML-version of CV is [here](https://anplug.github.io/various_js)
 
 ### Experience
 * Working as senior bone-idle for 20 years
